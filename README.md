@@ -17,7 +17,6 @@ To do:
 
 > To chat among each other
 
-
 Made using:
 
 Django, Twilio
