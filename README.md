@@ -19,4 +19,4 @@ To do:
 
 Made using:
 
-Django, Twilio
+Django and Twilio
